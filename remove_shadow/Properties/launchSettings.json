@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "remove_shadow": {
+      "commandName": "Project",
+      "commandLineArgs": "wx_20221031180942.jpg"
+    }
+  }
+}
